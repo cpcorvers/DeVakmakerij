@@ -117,7 +117,7 @@ h1 {
   text-align: center;
 }
 /* unvisited link */
-a:link {
+a {
   color: #FDA355;
 }
 
