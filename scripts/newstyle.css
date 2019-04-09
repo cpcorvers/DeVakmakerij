@@ -116,6 +116,22 @@ h1 {
   vertical-align: top;
   text-align: center;
 }
+/* unvisited link */
+a:link {
+  color: #FDA355;
+}
+
+/* a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+} */
 
 #p-mission {
   width: 800px;
